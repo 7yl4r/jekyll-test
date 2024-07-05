@@ -10,6 +10,7 @@ description: >
 header_pages:
   - portfolio.md
   - about.md
+  - day_1.md
 
 # minima:
 #   date_format: "%b %-d, %Y"
